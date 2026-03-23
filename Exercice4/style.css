@@ -1,0 +1,33 @@
+header{
+    background-color: #FFCC99;
+    box-shadow: #ccc 2px 2px 5px;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+main{
+    background-color: #E6F2FF;
+    display: flex;          
+    flex-direction: row;    
+    flex: 1;                
+}
+section{
+    margin: 20px;
+    flex: 3;
+}
+aside{
+    background-color: #B3D9FF;
+    flex: 1;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc;
+}
+footer{
+    background-color: #99CC99;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    box-shadow: #ccc 2px 2px 5px;
+}
