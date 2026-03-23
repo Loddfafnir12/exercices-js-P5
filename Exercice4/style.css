@@ -1,6 +1,6 @@
 header{
     background-color: #FFCC99;
-    box-shadow: rgb(204, 204, 204) 2px 2px 5px;
+    box-shadow: rgba(204, 204, 204, 0.999) 2px 2px 5px;
 }
 
 h1{
@@ -29,5 +29,5 @@ footer{
     border-width: 1px;
     border-style: solid;
     border-color: #ccc;
-    box-shadow: rgb(204, 204, 204) 2px 2px 5px;
+    box-shadow: rgba(204, 204, 204, 0.999) 2px 2px 5px;
 }
